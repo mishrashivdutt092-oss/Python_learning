@@ -1,2 +1,5 @@
-# Python_learning
-My Python learning Journey
+print("Hello, World!")
+print("My name is Shiv Dutt Mishra.")
+print("I am a BCA Student.")
+print("I am learning Python Programming.")
+print("Welcome to my GitHub Profile!")
